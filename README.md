@@ -1,5 +1,3 @@
-﻿# mt-asses
 # mt-asses
-
-# Req 
-Nodejs12 >
+# Requirements
+- Nodejs v12+
